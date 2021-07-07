@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "ignoreTestFiles": ["**/examples/*",
+                      "**/__snapshots__/*",
+                      "**/__image_snapshots__/*"
+                    ],
+  "viewportHeight": 1080,
+  "viewportWidth": 1740,
+  "screenshotOnRunFailure": true,
+  "video": false,
+  "projectId": "32qggi",
+  "env": {
+    
+  }
+}
